@@ -15,6 +15,16 @@ header {
     background-color: rgb(255, 255, 255);
     width: 100%;
 }
+footer {
+    display: flex;
+    justify-content: center;
+    border-top: 2px solid rgb(255, 255, 255) ;
+    padding: 10px 64px;
+    color: white;
+    align-items: center;
+    background-color: lch(73.14% 82.71 70.14);
+    width: 100%;
+}
 .logo{
     color: lch(73.14% 82.71 70.14);
 }
